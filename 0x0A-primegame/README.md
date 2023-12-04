@@ -1,0 +1,1 @@
+Given a set of consecutive integers starting from 1 up to and including n
